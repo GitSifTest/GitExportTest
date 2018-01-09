@@ -1,0 +1,8 @@
+Business Component,[Id]='1-1-116IT',C:\Users\WM\Desktop\ExpDir\GitExportTestBusiness Component_Account.sif
+Business Component,[Id]='1-1-436IT',C:\Users\WM\Desktop\ExpDir\GitExportTestBusiness Component_Account without Id.sif
+Business Component,[Id]='1-1-434343',C:\Users\WM\Desktop\ExpDir\GitExportTestBusiness Component_Account without Id2.sif
+Applet,[Id]='1-OPYZ',C:\Users\WM\Desktop\ExpDir\GitExportTestApplet_NPR TEST @@@.sif
+Applet,[Id]='1-HZPF',C:\Users\WM\Desktop\ExpDir\GitExportTestApplet_NPR Book Form Applet.sif
+Applet,[Id]='1-OPZ1',C:\Users\WM\Desktop\ExpDir\GitExportTestApplet_NPR_test.sif
+Applet,[Id]='1-OPZ2',C:\Users\WM\Desktop\ExpDir\GitExportTestApplet_NPR_Test.sif
+Applet,[Id]='1-OPYY',C:\Users\WM\Desktop\ExpDir\GitExportTestApplet_NPR TEst1.sif
